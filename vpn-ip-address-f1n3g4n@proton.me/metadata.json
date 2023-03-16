@@ -1,0 +1,13 @@
+{
+  "name": "1 - VPN IP Address",
+  "description": "Show VPN IP Address in the Gnome panel",
+  "uuid": "vpn-ip-address-f1n3g4n@proton.me",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43"
+  ],
+  "version": 1,
+  "url": "https://github.com/f1n3g4n"
+}
